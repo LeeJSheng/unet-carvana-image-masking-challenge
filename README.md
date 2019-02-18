@@ -1,6 +1,6 @@
 # A U-Net implementation for the Carvana Image Masking Challenge
 
-The challenger page can be found [here](https://www.kaggle.com/c/carvana-image-masking-challenge)
+The challenge page can be found [here](https://www.kaggle.com/c/carvana-image-masking-challenge)
 
 Download the dataset [here](https://www.kaggle.com/c/carvana-image-masking-challenge/data)
 
